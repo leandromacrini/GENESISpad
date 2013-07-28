@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+buttons	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+GENESISpad	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+GENESIS_A	LITERAL1
+GENESIS_B	LITERAL1
+GENESIS_C	LITERAL1
+GENESIS_START	LITERAL1
+GENESIS_UP	LITERAL1
+GENESIS_DOWN	LITERAL1
+GENESIS_LEFT	LITERAL1
+GENESIS_RIGHT	LITERAL1
