@@ -14,7 +14,7 @@ After this library is installed, you just have to start the Arduino application.
 You may see a few warning messages as it's built.
 
 To use this library in a sketch, go to the Sketch | Import Library menu and
-select NESpad.  This will add a corresponding line to the top of your sketch:
+select GENESISpad.  This will add a corresponding line to the top of your sketch:
 #include <GENESISpad.h>
 
 To stop using this library, delete that line from your sketch.
